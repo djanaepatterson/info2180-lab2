@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>INFO2180 Lab 2</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+ <header>
+ <h1>D'Janae Pattersons's Blog</h1>
+ <img src="Photo of D'Janae.jpg" alt="Photo of D'Janae Patteron" class="circle"/>
+ <p> An ambitious Web Developer</p>
+ </header>
+ <main>
+   <article>
+     <h2>An Inspired Heart </h2>
+     <p class="textcolor">October 1, 2021 by D'Janae Patterson</p>
+     <img src="Nature.jpg"  alt="A visual representation of Nature embodying the people" class="blog1"/>
+     <p>Despite the adversities, Im inspired by the people, by the earth and by my own ambitions
+     Truth is, we are all living in a time we never saw coming,yet we continue to push. The sun continues to shine
+     and the people continue to rise. Ive seen numerous business being formed, relationships being mended 
+     new babies being welocmed to the earth and an insurmounable to trees and flowers bloom.
+     That is inspiring. We are in a pandemic, a time of uncertanitie and great sadness but we are still header
+     overcoming the odds. I believe in myself and my potientials more than ever now. Like th wings of the butterfly,
+      my heart flutters and like the people, my soul is empowered.
+     </p><br></br>
+     <p> The hope that we all continue to have, is something worth being proud of, the very fact that  you still see 
+         see it necessary to get stuff done is admirable and commendable. It brings me pure joy and motivation. There is so much 
+         bad that is bring highlighted in the world but nobody ever seems to highlight the resilence of the people and the strength
+         of nature. My cherry tree blossom more than 15 different times this summer, despite the rain and heavy winds and all that jazz, it stud tall and 
+         provided. Everyday I looked at it in awe, as we picked the current bundle and waiting just a few short days for the next to arrrive.
+         I mean, if a cherry can be that determined, we have no excuse, right. And for those who have a hard time adjusting, just go outside and admirable
+         nature, I promise you its the most motivational aspect of light.
+         <p/> <br> </br>
+   <article>
+      <article>
+        <h2>Listen.</h2>
+        <p class="textcolor">October 1, 2021 by D'Janae Patterson</p>
+        <img src="Silent.jpg"  alt="Photo of a the game call of duty" class="blog2"/>
+        <p>In order to listen, you must be silent, that is exactly why the two words share the exact same letters. Why do you need to listen?
+        Well, whenever you are receiving instructions about something you have no idea how to do, what do you do? You listen. Life is unpredictable
+        and most times we dont know what to do. We ask an insurmountable amount of question throughout our lifetime and inorder to get a satisfying
+         answer, we must first listen. The world is full with many amazing teachers but can they all speak on your particular situation? No, that impossible.
+         As only you know and only you understand whats happening in your own little world. They may provide important and helpful instruction and advice. 
+         But how do you apply it? You must first LISTEN, not only to the instructor but to your own self. Get a room, put away all disrtactions, create a silent place
+         and listen. Whenever, there is a new task, change or stage in your life and you have no idea what to do. Just Listen. </p>
+         <p>
+         In order to listen, you must be silent, that is exactly why the two words share the exact same letters. Why do you need to listen?
+        Well, whenever you are receiving instructions about something you have no idea how to do, what do you do? You listen. Life is unpredictable
+        and most times we dont know what to do. We ask an insurmountable amount of question throughout our lifetime and inorder to get a satisfying
+         answer, we must first listen. The world is full with many amazing teachers but can they all speak on your particular situation? No, that impossible.
+         As only you know and only you understand whats happening in your own little world. They may provide important and helpful instruction and advice. 
+         But how do you apply it? You must first LISTEN, not only to the instructor but to your own self. Get a room, put away all disrtactions, create a silent place
+         and listen. Whenever, there is a new task, change or stage in your life and you have no idea what to do
+      </p>
+      </article>
+      
+ </main>
+ 
+   <aside>
+     <div class="background">
+       <h3 class= "color">About</h3>
+       <p>A promising Software Engineering major with and a lover of lofi aesthetic music./p>
+     </div>
+     <h3>Social Media</h3>
+     <ul>
+       <li>
+         <a href="https://www.instagram.com/djanaepatterson/_" class="link">Twitter</a>
+        </li>
+     </ul>
+     <h3>Archives</h3>
+     <ul>
+       <li>
+         <a href="https://www.youtube.com/watch?v=t_i_Dq2GjAI/" class="link">Lofi Aesthetic Music</a>
+        </li>
+      </ul>
+    </aside>
+ 
+ 
+   <footer>
+     <p>Copyright &copy; 2021, D'Janae Patterson</p>
+   </footer>
+  
+</div>
+</body>
+</html>
