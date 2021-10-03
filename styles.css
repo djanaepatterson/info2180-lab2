@@ -1,0 +1,97 @@
+styles.css
+
+body{
+    font-size: 18px;
+    color: #2D3748;
+    font-family: -apple-system,BlinkMacSystemFont,"SegoeUI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif;
+}
+.circle{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.blog1{
+    float:right; 
+    width:250px; 
+    height:250px;
+}
+.blog2{
+    float:left; 
+    width:250px; 
+    height:250px;
+}
+.textcolor{
+    color:#718096;
+}
+
+h2{
+    font-size:32px;
+    color:#48BB78;
+}
+
+h3{
+    color:#48BB78;
+    font-family:Georgia,'Times New Roman', Times, serif;
+    
+}
+
+.color{
+    color:#000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.link{
+    color:#4299E1;
+}
+.background{
+    background-color: #E2E8F0;
+    
+}
+
+aside{
+    padding: 25px 50px 75px;
+}
+
+footer{
+    background-color:#2C5282;
+    color:#FFFFFF;
+}
+
+.container {
+    display: grid;
+    grid-template-areas: 
+      "header header header"
+      "main main aside"
+      "footer footer footer";
+    gap:230px;  
+}
+
+.container > header {
+  grid-area: header;
+}
+
+.container > main {
+  grid-area: main;
+}
+
+.container > aside {
+  grid-area: aside;
+}
+
+.container > footer {
+  grid-area: footer;
+}
+.container > header{
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    height: 500px;
+    background-color:  #63B3ED;
+    font-size: 36px;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
